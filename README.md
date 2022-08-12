@@ -89,3 +89,6 @@ For each test case, print a single line containing the string First if the first
 
 You may print each character of the string in uppercase or lowercase (for example, the strings first, First, fIRSt, and FIRST will all be treated as identical).
 
+![image](https://user-images.githubusercontent.com/61576958/184368281-80cf3f92-c996-4ee2-a61a-f262f9ae7ed1.png)
+
+
