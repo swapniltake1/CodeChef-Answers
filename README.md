@@ -74,3 +74,18 @@ Test case 11: The initial population of the town was 33 million, out of which 11
 Test case 22: The initial population of the town was 22 million, out of which 22 million left and 22 million immigrated. The final population is thus 2+2-2 = 22+2−2=2 million.
 
 
+3. Problem TVDISC
+Chef is looking to buy a TV and has shortlisted two models. The first one costs AA rupees, while the second one costs BB rupees.
+
+Since there is a huge sale coming up on Chefzon, Chef can get a flat discount of CC rupees on the first TV, and a flat discount of DD rupees on the second one.
+
+Help Chef determine which of the two TVs would be cheaper to buy during the sale.
+
+Input Format
+The first line contains a single integer TT — the number of test cases. Then the test cases follow.
+The first and only line of each test case contains four space-separated integers AA, BB, CC and DD — the marked price (in rupees) of the first TV, the marked price (in rupees) of the second TV, the flat discount (in rupees) of the first TV, and the flat discount (in rupees) of the second TV.
+Output Format
+For each test case, print a single line containing the string First if the first TV is cheaper to buy with discount, or Second if the second TV is cheaper to buy with discount. If both of them cost the same after discount, print Any.
+
+You may print each character of the string in uppercase or lowercase (for example, the strings first, First, fIRSt, and FIRST will all be treated as identical).
+
